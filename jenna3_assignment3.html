@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 11px sans-serif;
+}
+
+.axis line,
+.axis text {
+  font: 11px sans-serif;
+}
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+
+</style>
+<body>
+<link href="style.css" rel="stylesheet">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+ <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+<div id="layout">
+	<div id="title">
+		<p>UW Computer Animation Capstone Alumni</p>
+	</div>
+	<div id="visualization">
+		<svg class="chart"></svg>
+		
+		<p id="ylabel1">Years in Industry</p>
+		<p id="ylabel2">Number of Alumni</p>
+		
+         </div>
+         <div id="controls">
+
+         <label for="gender">Gender:</label>
+            	<input type="text" id="gender" readonly style="border:0; color:#f6931f; font-weight:bold;">
+				<br>
+				<div class="filters">
+					<select id=“selectform4” onchange="filter('gender', this.value)">
+					<option value="all">All</option>
+					<option value="Female">Female</option>
+					<option value="Male">Male</option>
+					</select>
+				</div>
+
+
+				<br/>
+
+				<!--label for the type dropdown-->
+            			<label for="type">Major:</label>
+            			<input type="text" id="mytype" readonly style="border:0; color:#f6931f; font-weight:bold;">
+				<br>
+				<!--create the dropdown here-->
+				<div class="filters">
+					<select id=“selectform” onchange="filter('major', this.value)">
+					<option value="all">All</option>
+					<option value="Computer Science and Engineering">CSE</option>
+					<option value="Art (Painting)">Painting</option>
+					<option value="Art (IVA)">IVA</option>
+					<option value="Art (Digital)">DXARTS</option>
+					<option value="Industrial Design">Design</option>
+					<option value="Architecture">Architecture</option>
+					</select>
+				</div>
+
+								<!--create the dropdown here-->
+
+				<br/>
+
+				<label for="ta">Capstone TA:</label>
+            	<input type="text" id="tatype" readonly style="border:0; color:#f6931f; font-weight:bold;">
+				<br>
+				<div class="filters">
+					<select id=“selectform2” onchange="filter('ta', this.value)">
+					<option value="all">All</option>
+					<option value="Yes">Yes</option>
+					<option value="No">No</option>
+					</select>
+				</div>
+
+
+				<br/>
+
+				<label for="industry">In Industry:</label>
+            	<input type="text" id="industrytype" readonly style="border:0; color:#f6931f; font-weight:bold;">
+				<br>
+				<div class="filters">
+					<select id=“selectform3” onchange="filter('industry', this.value)">
+					<option value="all">All</option>
+					<option value="Yes">Yes</option>
+					<option value="No">No</option>
+					</select>
+				</div>
+
+
+				<!--create the sliders here (with labels to show the selected range)-->
+				<br/>
+				
+				<label for="capstoneyear">Capstone Year: </label>
+				<input type="text" id="capstoneyear" readonly style="border:0; color:#f6931f; font-weight:bold;"/>
+				<div id="year" class="slider-range"></div>
+
+				<br>
+
+				<div id="profile">
+					<h1 id="name"></h1>
+					<p id="info">
+						<br>
+						<span class="bold">Capstone Year: </span> <span id="capstone"></span>
+						<br>
+						<span class="bold">Major: </span> <span id="major"></span>
+						<br>
+						<span class="bold">Was a Capstone TA? </span> <span id="taStatus"></span>
+						<br>
+						<span class="bold">Currently In Industry? </span> <span id="industry"></span>
+						<br>
+						<span class="bold">Years in Industry: </span> <span id="experience"></span>
+						<br>
+						<span class="bold">Part of Pipeline: </span> <span id="pipeline"></span>
+						<br>
+						<span class="bold">Additional Schooling:  </span> <span id="school"></span>
+					</p>
+				</div>
+
+				
+
+	</div>
+
+<script src="script.js"></script>
+
+<div id="legend">
+			Male: <div id="maleColor" class="color"></div>
+			Female: <div id="femaleColor" class="color"></div>
+		</div>
+
+</body>
+</html>
+

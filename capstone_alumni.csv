@@ -1,0 +1,165 @@
+name,gender,year,TA,major,Additional Schooling Boolean,school,industry,years_in_industry,Specialized In Animation?,pipeline,Part of Pipeline (Past),Most Recent Employer in Animation Industry
+Mike Aucoin,Male,2000,Yes,Computer Science and Engineering,No,N/A,No,3,No,Technical Director,,Dreamworks
+Jason Ilano,Male,2000,Yes,Computer Science and Engineering,No,N/A,Yes,18,Yes,Director,Character Animation,Gooty Games
+Mark Manca,Male,2000,Yes,Computer Science and Engineering,Yes,VanArts,Yes,9,No,Software Engineer,Technical Director,Pixar
+Wyvern Aldinger,Male,2000,No,Computer Science and Engineering,No,N/A,No,7,No,Producer,,Self-Employed
+Peter Bill,Male,2000,No,Art (Painting),No,N/A,No,0,No,Artist,,Trafika Films
+Dave Hunt-Bosch,Male,2000,No,Art (IVA),Yes,Drexel University,Yes,20,Yes,Rigging,Character Animation,Bungie
+Anthony Lampa,Male,2000,No,Art (IVA),Yes,Digipen,Yes,15,Yes,Lighting,Environment,Monolith
+Chad Lindhorst,Male,2000,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Varun Peter,Male,2000,No,Industrial Design,No,N/A,No,0,No,N/A,,N/A
+Peter Sumanaseni,Male,2000,Yes,Computer Science and Engineering,No,N/A,Yes,16,No,Technical Director,Lighting,Pixar
+Shelby Townsend,Female,2000,No,Architecture,No,N/A,No,0,No,N/A,,N/A
+Caroline Kwak,Female,2001,Yes,Architecture,No,N/A,No,0,No,N/A,,N/A
+Boaz Ashkenazy,Male,2001,No,Architecture,No,N/A,No,0,No,N/A,,N/A
+Michael Beal,Male,2001,Yes,Computer Science and Engineering,No,N/A,Yes,16,No,Software Engineer,Technical Director,Blizzard
+Chelsea Klein,Female,2001,No,Architecture,No,N/A,No,0,No,N/A,,N/A
+Kristofer Martin,Male,2001,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Russ Rotondi,Male,2001,No,Industrial Design,No,N/A,No,0,No,N/A,,N/A
+Sean Smith,Male,2001,No,Computer Science and Engineering,No,N/A,No,1,No,Software Engineer,,Pixar
+Marcus Ghaly,Male,2001,No,Art (IVA),No,N/A,No,7,Yes,Environment,Technical Director,Sony
+John Harrison,Male,2001,No,Spanish,Yes,USC,No,0,No,Cinematography,,Self-Employed
+Christopher Twigg,Male,2001,No,Computer Science and Engineering,No,N/A,Yes,8,No,R&D,Technical Director,Oculus VR
+Brad Weikel,Male,2001,Yes,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Robert Carr,Male,2001,No,N/A,Yes,Academy of Art,Yes,9,Yes,AutoCAD,Character Animation,Kaneva
+Eric Anderson,Male,2002,No,Art (IVA),Yes,Animation Mentor,Yes,12,Yes,Character Animation,,Blue Sky
+Blake Carroll,Male,2002,No,Mathematics,No,N/A,No,0,No,N/A,,N/A
+Brad Fitch,Male,2002,No,Music,No,N/A,No,0,No,N/A,,N/A
+Ellen King,Female,2002,No,Stage Design,No,N/A,No,0,No,Graphic Designer,Art Director,TV
+Samantha Michel,Female,2002,No,Computer Science and Engineering,No,N/A,No,9,No,Technical Director,,Dreamworks
+Dave Olsen,Male,2002,No,Art (Painting),No,N/A,No,0,No,N/A,,N/A
+Brian Porter,Male,2002,No,Geopgraphic Information Systems,No,N/A,Yes,15,Yes,Global Marketing,FX,ArenaNet
+Benjamin Stewart,Male,2002,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Ginturn Tran,Male,2002,Yes,Art (IVA),Yes,Academy of Art,No,2,Yes,Character Animation,,Maverix
+Brendan Condit,Male,2003,Yes,Art (IVA),Yes,Digipen,Yes,12,Yes,Technical Director,FX,Monolith
+Jay Derus,Male,2003,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Marc Thyng,Male,2003,Yes,Art (IVA),No,N/A,Yes,10,Yes,FX,,Disney
+Billy Tung,Male,2003,No,Mechanical Engineering,No,N/A,No,0,No,N/A,,N/A
+Ernest Wu,Male,2003,Yes,Computer Science and Engineering,No,N/A,Yes,11,No,Director,Technical Director,Self-Employed
+Dean Halford,Male,2004,Yes,Computer Science and Engineering,No,N/A,No,7,No,Software Engineer,,Electronic Arts
+Jesse Miller,Female,2004,Yes,Art (General),No,N/A,No,1,No,Artist,,N/A
+Nicholas Poplaski,Male,2004,Yes,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Irene Yi,Female,2004,Yes,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+David Lewis,Male,2005,No,Capstone,No,N/A,No,10,No,Technical Director,,Dreamworks
+Mike Lim,Male,2005,No,Mathematics,No,N/A,No,0,No,N/A,,N/A
+Dane Barney,Male,2005,Yes,Computer Science and Engineering,No,N/A,Yes,11,No,Software Engineer,Technical Director,Double Negative
+Adrian Ferrer,Male,2005,No,Computer Science and Engineering,Yes,Art Institute,No,1,No,Artist,,Interactive Imagination
+Eliana Medina,Female,2005,No,Psychology,No,N/A,No,0,No,N/A,,N/A
+Mike Hanson,Male,2005,No,Art (IVA),No,N/A,Yes,14,Yes,Modeling,Technical Director,Straightface Studios
+David Pierce,Male,2005,No,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+Kira Lehtomaki,Female,2005,Yes,Computer Science and Engineering,Yes,Animation Mentor,Yes,12,Yes,Character Animation,,Disney
+Matthew Milcic,Male,2005,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Jon Fuchs,Male,2005,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Ryan Sluman,Male,2005,Yes,Art (IVA),Yes,Animation Mentor,Yes,10,Yes,Character Animation,,ILM
+Matt Titus,Male,2005,No,Computer Science and Engineering,No,N/A,Yes,10,Yes,FX,,Dreamworks
+Maxine Toh,Female,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Mike Mccain,Male,2006,Yes,Computer Science and Engineering,No,N/A,Yes,10,No,Artist,,Hairbrained Schemes
+Joon Kim,Male,2006,No,Computer Science and Engineering,No,N/A,Yes,6,Yes,Storyboard Artist,,Hairbrained Schemes
+Collin Monda,Male,2006,No,Art (Digital),No,N/A,Yes,9,Yes,Character Animation,Director,Papereverie Productions
+Jon Mozeika,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Clayton Dillaway,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Dan Arrington,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Jin Pae,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Christopher Phelps,Male,2006,No,Philosophy,No,N/A,No,0,No,N/A,,N/A
+Michael Carson,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Ron Romain,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Troy Johnsen,Male,2006,No,Computer Science and Engineering,No,N/A,Yes,12,No,Software Engineer,Technical Director,Camouflaj game studio
+Bryan Leptich,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Markus Hornsten,Male,2006,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Kendal Sager,Female,2007,No,Computer Science and Engineering,No,N/A,Yes,9,No,Education Consultant,Technical Director,Dreamworks
+Laith Ahmad,Male,2007,Yes,Computer Science and Engineering,No,N/A,Yes,10,No,Quality Assurance,Artist,ArenaNet
+Danny Dahlquist,Male,2007,Yes,Cinema Studies,No,N/A,Yes,10,No,Director,Artist,GolPost
+Mario De La Rosa,Male,2007,No,Communications,No,N/A,No,0,No,N/A,,N/A
+Eric Huang,Male,2007,No,Computer Science and Engineering,No,N/A,Yes,9,Yes,Character Animation,,Sony
+Tomas Pulmano,Male,2007,No,Computer Science and Engineering,No,N/A,Yes,9,No,Software Engineer,,Scopely
+Christine Bian,Female,2007,Yes,Art (Painting),Yes,Concept Design Academy,Yes,10,Yes,Art Supervisor,Concept Artist,Dreamworks
+Anna Czoski,Female,2007,Yes,Art (Digital),Yes,Animation Mentor,Yes,9,Yes,VR,Character Animation,Self-Employed
+Taisha Atkin,Female,2007,No,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+Songyue Huang,Male,2007,No,Art (Fine Arts),No,N/A,No,0,No,N/A,,N/A
+Linda Le,Female,2007,No,Informatics,No,N/A,No,0,No,N/A,,N/A
+Joshua Gaebel,Male,2007,No,Computer Science and Engineering,No,N/A,No,11,No,Software Engineer,,Disney
+Robert Forsberg,Male,2008,Yes,Computer Science and Engineering,No,N/A,Yes,9,No,Technical Director,,Bungie
+Jason Jones,Male,2008,Yes,Cinema Studies,No,N/A,Yes,9,Yes,Rigging,,Bungie
+Andrew Yurovchak,Male,2008,Yes,Computer Science and Engineering,No,N/A,No,1,No,N/A,3D Artist,Amaze Entertainment
+Erik LeDrew,Male,2008,Yes,Art (Digital),Yes,VanArts,No,1,No,Producer,,N/A
+Justin Pai,Male,2008,No,Computer Science and Engineering,No,N/A,Yes,7,No,Game Designer,Software Engineer,Wargaming Seattle
+Lauren Quist,Female,2008,No,Art (IVA),No,N/A,No,1,Yes,N/A,Character Animation,Quistie Productions
+Derek Shiu,Male,2008,Yes,Art (IVA),Yes,Animation Mentor,Yes,7,Yes,Character Animation,,Unity Technologies
+Koos Kleven ,Male,2008,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Robert Gay,Male,2008,Yes,Art (Fine Arts),No,N/A,No,6,No,Sound Designer,,ArenaNet
+Brian Britigan,Male,2008,No,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+Saille Schumacher,Female,2008,No,Art (Fine Arts),Yes,Henry Cogswell College,Yes,10,Yes,Character Animation,3D Artist,StudioVoltz
+Matt Davis,Male,2008,No,Computer Science and Engineering,No,N/A,No,4,No,Technical Director,,Dreamworks
+Amber Manuguid,Female,2008,No,Art (Digital),No,N/A,No,0,No,N/A,,N/A
+Ryan Irilli,Male,2008,No,Art (Digital),No,N/A,No,0,No,N/A,,N/A
+Byron Jennings,Male,2008,No,Art (IVA),No,N/A,Yes,4,No,3D Artist,,Studio XF8
+Cale Schupman,Male,2008,No,Art (Digital),No,N/A,Yes,7,No,Game Designer,Producer,Undead Labs
+Sharon Lin,Female,2008,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Scott Wade,Male,2008,No,Art (Painting),No,N/A,Yes,9,Yes,Art Supervisor,3D Artist,Sideshow
+Caroline Alexander,Female,2009,No,Art (Fine Arts),No,N/A,No,0,No,N/A,,N/A
+Nicholas Garrett,Male,2009,Yes,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Daren Keck,Male,2009,No,Art (Digital),No,N/A,No,0,No,N/A,,N/A
+Elizabeth Muhm,Female,2009,No,Computer Science and Engineering,No,N/A,Yes,5,No,Technical Director,,Dreamworks
+Andrea Parkhill,Female,2009,Yes,Computer Science and Engineering,No,N/A,Yes,6,No,Technical Director,,Sony
+Andy Sun,Male,2009,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Jimmy Zhang,Male,2009,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Jesse Andrews,Male,2009,No,Mathematics,No,N/A,No,0,No,N/A,,N/A
+Marianne Lee,Female,2009,No,Art (Fine Arts),No,N/A,No,6,No,Artist,,Center for Game Science
+Daniel Nelson,Male,2009,No,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+Ryan Rosendal,Male,2009,Yes,Art (IVA),No,N/A,Yes,3,No,Artist,,VoiceFlix
+Tracey West,Female,2009,No,Art (Digital),No,N/A,Yes,4,No,Tagger,Artist,Microsoft
+Eddy Adams,Male,2010,No,Art (Digital),No,N/A,Yes,9,No,3D Artist,,Lustre
+Mark Agoncillo,Male,2010,Yes,Computer Science and Engineering,Yes,Animation Mentor,No,1,Yes,Games Coordinator,Character Animation,After/Noon Productions
+Michael Amorozo,Male,2010,No,Computer Science and Engineering,No,N/A,Yes,5,No,Technical Director,,Dreamworks
+Stephen Friedman,Male,2010,No,Computer Science and Engineering,No,N/A,Yes,7,No,Software Engineer,,Pixar
+David Heflin,Male,2010,No,Art (Digital),No,N/A,Yes,4,No,Quality Assurance,,Sucker Punch Productions
+Brice Johnson,Male,2010,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Devin Johnson,Male,2010,Yes,Art (Digital),No,N/A,Yes,2,No,3D Scan Artist,,YOUto3D
+Matthew Kaplan,Male,2010,No,Art (Digital),No,N/A,Yes,3,No,AR,,Microsoft
+Kimberly Koenig,Female,2010,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Jessica Kutrakun,Female,2010,Yes,Art (Painting),Yes,Digipen,Yes,3,No,Technical Director,,Electronic Arts
+Sean Mack,Male,2010,Yes,Computer Science and Engineering,Yes,Animation Mentor,Yes,5,Yes,Character Animation,,Disney
+Hannah Sayre,Female,2010,No,Art (Digital),Yes,Digipen,Yes,3,Yes,Environment,,MTB Design Works
+Sheri Yin,Female,2010,Yes,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Brad Bicknell,Male,2011,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Marc Bourguignon,Male,2011,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Hannah Christensen,Female,2011,Yes,Computer Science and Engineering,No,N/A,No,4,No,Technical Director,,Dreamworks
+Sunny Kim,Female,2011,Yes,Art (Digital),Yes,Animation Mentor,Yes,0,No,N/A,,N/A
+Lily Lao,Female,2011,No,Architecture,No,N/A,No,1,Yes,Character Animation,,Digital Future Lab
+Jennifer Sloan,Female,2011,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Ashley Prescott,Female,2011,Yes,Art History,Yes,Animation Mentor,No,0,No,N/A,,N/A
+Keith Stone,Male,2011,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Jenn Swanson,Female,2011,No,Art (Digital),No,N/A,Yes,6,No,3D Artist,,Trigan Media
+Jennifer Yang,Female,2011,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Win Leersanthanah,Male,2011,No,Architecture,Yes,Savannah College,Yes,1,No,3D Artist,,The Third Floor
+Nina Marien,Female,2011,Yes,Art (Fine Arts),No,N/A,No,0,No,N/A,Producer,N/A
+Kendra Stout,Female,2011,Yes,Art (Digital),Yes,Animation Mentor,No,0,No,N/A,,N/A
+Jamie Austad,Female,2012,Yes,Art (Fine Arts),Yes,Animation Mentor,Yes,1,Yes,Character Animation,,Luckbat Studio
+Madison Bates,Female,2012,Yes,Cinema Studies,No,N/A,Yes,1,No,Production Assistant,,Laika
+Ross Bohner,Male,2012,No,HCDE,No,N/A,No,0,No,N/A,,N/A
+Melissa DeBarr,Female,2012,Yes,Art (Painting),No,N/A,No,0,No,N/A,,N/A
+Mai Dang,Female,2012,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Anna Hayden,Female,2012,Yes,Art (Digital),Yes,Animation Mentor,Yes,2,Yes,Character Animation,,DHX Media
+Kaitlin Hoover,Female,2012,No,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+Molly Soliday,Female,2012,No,Computer Science and Engineering,Yes,AnimSchool,Yes,0,No,N/A,,N/A
+Evangeline Spracklin,Female,2012,No,Art (Digital),No,N/A,Yes,4,No,Director,,Reel Grrls Productions
+Yuchen Shen,Male,2012,No,Computer Science and Engineering,No,N/A,Yes,5,No,Software Engineer,,Sanzaru Games
+Andy Wu,Male,2012,No,Art (Painting),Yes,Academy of Art,Yes,4,Yes,Lighting/Compositing,Texture Artist,Ingenuity Studios
+Edbert Yoewono,Male,2012,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Sarah Arnegard,Female,2013,No,Art (Digital),No,N/A,No,0,No,N/A,,N/A
+Benjamin Chan,Male,2013,No,Computer Science and Engineering,Yes,Gnomon,Yes,1,Yes,Character Animation,,N/A
+Jason Chen,Male,2013,Yes,Cinema Studies,No,N/A,No,0,No,N/A,,N/A
+Steph Dietzel,Female,2013,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Zorah Fung,Female,2013,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Celeste Hansen,Female,2013,No,Art (IVA),No,N/A,Yes,2,No,Illustrator,,Catalyst Game Labs
+Sarah Hutchinson,Female,2013,Yes,Computer Science and Engineering,No,N/A,Yes,2,No,Software Engineer,,Pixar
+Ciera Johl,Female,2013,Yes,Interaction Design,No,N/A,No,0,No,N/A,,N/A
+Yasu Kawamura,Male,2013,No,Art (IVA),Yes,Academy of Interactive Entertainment,No,0,No,N/A,,N/A
+Polina Kud,Female,2013,Yes,Computer Science and Engineering,No,N/A,No,1,No,Software Engineer,,N/A
+Valerie Liang,Female,2013,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Tomoyo Matsuda,Female,2013,Yes,Computer Science and Engineering,Yes,Animation Mentor,Yes,6,Yes,Character Animation,,Animation Café Inc
+Joanna Ngai,Female,2013,No,Design,No,N/A,No,0,No,N/A,,N/A
+Nga Nguyen,Female,2013,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,N/A
+Ellen Van Wyk,Female,2013,No,Art (IVA),No,N/A,No,0,No,N/A,,N/A
+Byron Wu,Male,2013,No,Applied Physics,No,N/A,No,0,No,N/A,,N/A
+David Zhu,Male,2013,No,Computer Science and Engineering,No,N/A,No,0,No,N/A,,
