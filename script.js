@@ -7,7 +7,7 @@ var margin = {top: 15, right: 15, bottom: 15, left: 60};
 
 var dataset; //the full dataset
 
-var filters = {gender: "all", major: "all", yearMin: 2000, yearMax: 2013, ta: "all", industry: "all"};
+var filters = {gender: "all", major: "all", yearMin: 2000, yearMax: 2013, ta: "all", industry: "all", production: "all"};
 
 
 //barchart variables
@@ -188,6 +188,12 @@ function drawVis(dataset) { //draw the circiles initially and on each interactio
      	   .style("fill", function(d) { return col(d.gender); })
     	   .style("opacity", 0.5)
          .on("mouseover", function(d) {
+
+           console.log(d3.select(this).attr("class"));
+           d3.select(this).transition()
+            .duration(150)
+            .attr("r", 5.5);
+
             d3.selectAll(".bar").filter("."+pipelineCategory(d.pipeline))
               .transition()
               .duration(200)
@@ -213,6 +219,10 @@ function drawVis(dataset) { //draw the circiles initially and on each interactio
             d3.select("#school").html(d.school);
             })
           .on("mouseout", function(d) {
+            d3.select(this).transition()
+            .duration(150)
+            .attr("r", 4);
+
             d3.selectAll(".bar").filter("."+pipelineCategory(d.pipeline))
               .transition()
               .duration(200)
@@ -249,18 +259,19 @@ function drawVis(dataset) { //draw the circiles initially and on each interactio
       .attr("width", barX.bandwidth())
       .style("fill", "purple")
       .on("mouseover", function(d) {
+        console.log(d3.select(this).attr("class"));
             d3.selectAll("." + d.category).transition()
             .duration(200)
-            .attr("r", 10)
+            .attr("r", 5)
             .style("stroke", "purple")
-            .style("lineWidth", "5");
+            .style("stroke-width", "5");
             })
       .on("mouseout", function(d) {
             d3.selectAll("." + d.category).transition()
             .duration(200)
             .attr("r", 4)
             .style("stroke", "black")
-            .style("lineWidth", "1");
+            .style("stroke-width", "1");
             });
 
   var bar = barChart.selectAll(".bar")
@@ -312,7 +323,8 @@ function filter(filtername, filtervalue){
           && (filters["major"] == "all" || d["major"] == filters["major"]) 
           && (d["year"] >= filters["yearMin"] && d["year"] <= filters["yearMax"]) 
           && (filters["ta"] == "all" || d["TA"] == filters["ta"])
-          && (filters["industry"] == "all" || d["industry"] == filters["industry"]);
+          && (filters["industry"] == "all" || d["industry"] == filters["industry"])
+          && (filters["production"] == "all" || pipelineCategory(d["pipeline"]) == filters["production"]);
   })
   drawVis(filteredData);
 }
@@ -337,7 +349,7 @@ function pipelineCategory(partOfPipeline){
       return "Character";
     } else if(partOfPipeline == "Modeling" || partOfPipeline == "AutoCAD" || partOfPipeline == "Environment" || partOfPipeline == "3D Artist"){
       return "Modeling";
-    } else if(partOfPipeline == "Director" || partOfPipeline == "Producer"){
+    } else if(partOfPipeline == "Director" || partOfPipeline == "Producer" || partOfPipeline == "Production Assistant"){
       return "Production";
     } else if(partOfPipeline == "Artist" || partOfPipeline == "Art Supervisor" || partOfPipeline == "Storyboard Artist" || partOfPipeline == "Illustrator"){
       return "Art";
